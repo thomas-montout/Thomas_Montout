@@ -1,6 +1,14 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Apprenti+Développeur+%40COFACE;Passionné+par+le+Web+et+l'IA;Futur+Ingénieur+Logiciel" alt="Typing SVG" />
-  <br/>
+  <h1>Thomas Montout</h1>
+  <p><em>Développeur Full-Stack</em></p>
+  <p align="center">
+    <br/>
+  <a href="https://github.com/thomas-montout">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Apprenti%20D%C3%A9veloppeur%20%40%20COFACE;Passionn%C3%A9%20par%20le%20Web%20et%20l%27IA;Futur%20Ing%C3%A9nieur%20Logiciel" alt="Typing SVG" />
+  </a>
+    <br/>
+    <br/>
+</p>
   <a href="mailto:montoutthomas@gmail.com"><img src="https://img.shields.io/badge/montoutthomas@gmail.com-151515?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/thomas-montout"><img src="https://img.shields.io/badge/LinkedIn-151515?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
@@ -93,9 +101,7 @@ Création d'un assistant capable de répondre à des questions à partir de docu
 
 ## ▌ Statistiques GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thomas-montout&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&text_color=777777" alt="Statistiques de Thomas" />
-</p>
+![Test Stats](https://github-readme-stats.vercel.app/api?username=thomas-montout&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&text_color=777777&v=1)
 
 ---
 <p align="right"><i>Dernière mise à jour : Mai 2026</i></p>
